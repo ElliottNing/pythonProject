@@ -14,3 +14,7 @@ print('整型变量:', counter)
 print('浮点型变量:', miles)
 print('字符串:', name)
 
+# 2、多个变量赋值
+# Python允许你同时为多个变量赋值。例如：
+a = b = c = 1
+print(c)
