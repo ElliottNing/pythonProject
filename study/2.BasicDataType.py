@@ -262,4 +262,4 @@ print('输出所有值:', tinydict.values())  # 输出所有值
 # print(chr(x)) # 将一个整数转换为一个字符
 # print(ord(x)) # 将一个字符转换为它的整数值
 # print(hex(x)) # 将一个整数转换为一个十六进制字符串
-# print(oct(x)) # 将一个整数转换为一个八进制字符串
+# print(oct(x))  # 将一个整数转换为一个八进制字符串
